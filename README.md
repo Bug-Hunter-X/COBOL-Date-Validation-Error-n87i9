@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL date validation. The code attempts to validate a date by comparing it numerically to a maximum date, rather than using appropriate date handling functions. This leads to incorrect validation in certain scenarios.  The solution demonstrates using a more robust date validation approach that avoids this issue.
